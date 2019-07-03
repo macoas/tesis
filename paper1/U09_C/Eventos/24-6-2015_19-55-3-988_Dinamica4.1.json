@@ -1,0 +1,32 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "24/6/2015",
+            "hora": "19:55:3:998"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "24/6/2015",
+            "hora": "19:55:9:730"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "24/6/2015",
+            "infoAdicional": "¡Hola, tío Pau! Ya vuelvo a casa.",
+            "hora": "19:55:22:530"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "24/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "19:55:26:560"
+        }
+    ],
+    "dificultad": "Medio",
+    "opciones": [
+        "¡Hola, tío Pau! Ya vuelvo a casa.",
+        "¡Hola, tío Pau! ¿Ya vuelvo a casa?"
+    ],
+    "dinamica": "Dinamica4.1"
+}

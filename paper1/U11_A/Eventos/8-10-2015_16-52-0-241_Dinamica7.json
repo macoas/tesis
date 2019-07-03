@@ -1,0 +1,21 @@
+{
+    "eventos": [
+        {
+            "hora": "16:52:0:242",
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:52:14:874",
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/10/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica7",
+    "opciones": [
+        "Volver a casa",
+        "Ir a la librería"
+    ]
+}

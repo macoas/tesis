@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "hora": "16:52:23:319",
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:52:40:125",
+            "evento": "Comienzo grabación",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:52:44:196",
+            "evento": "Fin grabación",
+            "fecha": "8/10/2015",
+            "infoAdicional": "8-10-2015_16-52-44-196_Dinamica3.1_1.wav"
+        },
+        {
+            "hora": "16:52:44:220",
+            "evento": "Grabacion correcta",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:52:48:248",
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/10/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica3.1",
+    "fraseAGrabar": "¡Hola! ¿Tienen lupas? Quería comprar una."
+}

@@ -1,0 +1,55 @@
+{
+    "lector": false,
+    "eventos": [
+        {
+            "hora": "18:34:46:915",
+            "evento": "Entrada en la dinamica",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:34:55:29",
+            "evento": "Click incorrecto",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:11:974",
+            "evento": "Ayuda sonora",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:12:771",
+            "evento": "Click incorrecto",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:22:272",
+            "evento": "Click en altavoz",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:27:703",
+            "evento": "Comienzo grabación",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:31:3",
+            "evento": "Fin grabación",
+            "fecha": "16/1/2016",
+            "infoAdicional": "16-1-2016_18-35-31-3_Dinamica4.2_1.wav"
+        },
+        {
+            "hora": "18:35:31:33",
+            "evento": "Grabacion correcta",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:35:35:44",
+            "evento": "Salida de la dinamica ",
+            "fecha": "16/1/2016",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica4.2",
+    "fraseAGrabar": "¡Hola tío Pau! Ya vuelvo a casa."
+}

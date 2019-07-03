@@ -1,0 +1,16 @@
+{
+    "dinamica": "DinamicaEstanteriaLupa",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "5/10/2015",
+            "hora": "16:36:6:805"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "5/10/2015",
+            "infoAdicional": "Superada",
+            "hora": "16:36:17:316"
+        }
+    ]
+}

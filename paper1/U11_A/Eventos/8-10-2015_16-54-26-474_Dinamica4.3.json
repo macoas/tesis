@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "hora": "16:54:26:477",
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:54:42:946",
+            "evento": "Comienzo grabación",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:54:46:33",
+            "evento": "Fin grabación",
+            "fecha": "8/10/2015",
+            "infoAdicional": "8-10-2015_16-54-46-33_Dinamica4.3_1.wav"
+        },
+        {
+            "hora": "16:54:46:50",
+            "evento": "Grabacion correcta",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:54:50:89",
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/10/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica4.3",
+    "fraseAGrabar": "Sí, esa es. ¡Hasta luego!"
+}

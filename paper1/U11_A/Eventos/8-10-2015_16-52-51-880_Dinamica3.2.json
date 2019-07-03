@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "hora": "16:52:51:882",
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:53:7:942",
+            "evento": "Comienzo grabación",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:53:11:689",
+            "evento": "Fin grabación",
+            "fecha": "8/10/2015",
+            "infoAdicional": "8-10-2015_16-53-11-689_Dinamica3.2_1.wav"
+        },
+        {
+            "hora": "16:53:11:711",
+            "evento": "Grabacion correcta",
+            "fecha": "8/10/2015"
+        },
+        {
+            "hora": "16:53:15:739",
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/10/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica3.2",
+    "fraseAGrabar": "Sí, la necesito. ¿Cuánto vale?"
+}

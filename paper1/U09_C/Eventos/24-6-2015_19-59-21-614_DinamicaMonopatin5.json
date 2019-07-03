@@ -1,0 +1,63 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "24/6/2015",
+            "hora": "19:59:21:614"
+        },
+        {
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "24/6/2015",
+            "hora": "20:0:11:891"
+        },
+        {
+            "evento": "Fin deteccion pitch",
+            "fecha": "24/6/2015",
+            "infoAdicional": "3-5-2015_20-0-21-269_DinamicaMonopatin5_0_frase",
+            "hora": "20:0:21:269"
+        },
+        {
+            "evento": "Frase incorrecta",
+            "fecha": "24/6/2015",
+            "hora": "20:0:21:359"
+        },
+        {
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "24/6/2015",
+            "hora": "20:0:24:749"
+        },
+        {
+            "evento": "Fin deteccion pitch",
+            "fecha": "24/6/2015",
+            "infoAdicional": "3-5-2015_20-0-33-551_DinamicaMonopatin5_1_frase",
+            "hora": "20:0:33:551"
+        },
+        {
+            "evento": "Frase correcta",
+            "fecha": "24/6/2015",
+            "hora": "20:0:33:631"
+        },
+        {
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "24/6/2015",
+            "hora": "20:0:55:351"
+        },
+        {
+            "evento": "Fin deteccion pitch",
+            "fecha": "24/6/2015",
+            "infoAdicional": "3-5-2015_20-1-5-534_DinamicaMonopatin5_0_tarareo",
+            "hora": "20:1:5:534"
+        },
+        {
+            "evento": "Tarareo correcto",
+            "fecha": "24/6/2015",
+            "hora": "20:1:5:624"
+        },
+        {
+            "evento": "Salida de la dinamica",
+            "fecha": "24/6/2015",
+            "hora": "20:1:10:451"
+        }
+    ],
+    "dinamica": "DinamicaMonopatin5"
+}
