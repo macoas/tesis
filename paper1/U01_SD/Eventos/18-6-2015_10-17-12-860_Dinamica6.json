@@ -1,0 +1,39 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/6/2015",
+            "hora": "10:17:12:870"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Quedarme en la biblioteca",
+            "hora": "10:17:36:667"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Coger el autobús",
+            "hora": "10:17:42:237"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Coger el autobús",
+            "hora": "10:17:45:877"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "10:17:49:907"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica6",
+    "opciones": [
+        "Quedarme en la biblioteca",
+        "Coger el autobús"
+    ]
+}

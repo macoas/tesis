@@ -1,0 +1,33 @@
+{
+    "dificultad": "Medio",
+    "dinamica": "Dinamica1.1",
+    "opciones": [
+        "¡Buenos días, tío Pau! Voy al hospital",
+        "¡Buenos días, tío Pau! Voy a la biblioteca"
+    ],
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "5/10/2015",
+            "hora": "17:14:22:115"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "5/10/2015",
+            "infoAdicional": "¡Buenos días, tío Pau! Voy a la biblioteca",
+            "hora": "17:14:38:993"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "5/10/2015",
+            "infoAdicional": "¡Buenos días, tío Pau! Voy a la biblioteca",
+            "hora": "17:14:44:468"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "5/10/2015",
+            "infoAdicional": "Superada",
+            "hora": "17:14:48:503"
+        }
+    ]
+}
