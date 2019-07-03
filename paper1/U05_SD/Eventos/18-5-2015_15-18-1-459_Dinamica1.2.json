@@ -1,0 +1,112 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "15:18:1:461"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:18:25:867"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:18:39:409"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "18/5/2015",
+            "hora": "15:18:40:302"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "hora": "15:18:44:673"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "15:18:52:662"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_15-18-59-890_Dinamica1.2_1.wav",
+            "hora": "15:18:59:890"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "18/5/2015",
+            "hora": "15:18:59:937"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:19:17:245"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:19:30:788"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:19:44:330"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "hora": "15:19:48:542"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "15:20:5:767"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_15-20-21-631_Dinamica1.2_2.wav",
+            "hora": "15:20:21:631"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "18/5/2015",
+            "hora": "15:20:21:739"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "18/5/2015",
+            "hora": "15:20:40:377"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "15:20:49:245"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "18/5/2015",
+            "hora": "15:21:23:268"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_15-21-23-812_Dinamica1.2_3.wav",
+            "hora": "15:21:23:812"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "No superada",
+            "hora": "15:21:28:93"
+        }
+    ],
+    "fraseAGrabar": "¡Hasta luego, tío Pau!",
+    "lector": false,
+    "dinamica": "Dinamica1.2",
+    "dificultad": "Medio"
+}

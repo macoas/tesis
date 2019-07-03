@@ -1,0 +1,82 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "15:36:7:763"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:17:668"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:24:142"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:28:340"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:31:946"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:34:877"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:46:351"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:53:610"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:59:36"
+        },
+        {
+            "evento": "Pieza mal colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:36:59:271"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:37:4:59"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:37:10:456"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:37:10:922"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "18/5/2015",
+            "hora": "15:37:16:13"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "15:37:25:428"
+        }
+    ],
+    "dinamica": "DinamicaPuzzle",
+    "dificultad": "Medio"
+}

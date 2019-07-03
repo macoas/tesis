@@ -1,0 +1,56 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "15:32:59:103"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "hora": "15:33:18:351"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "15:33:23:996"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_15-33-30-118_Dinamica4.3_1.wav",
+            "hora": "15:33:30:118"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "18/5/2015",
+            "hora": "15:33:30:153"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "15:33:42:913"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_15-33-48-105_Dinamica4.3_2.wav",
+            "hora": "15:33:48:106"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "18/5/2015",
+            "hora": "15:33:48:142"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "15:33:52:170"
+        }
+    ],
+    "fraseAGrabar": "Sí, esa es. ¡Hasta luego!",
+    "lector": false,
+    "dinamica": "Dinamica4.3",
+    "dificultad": "Medio"
+}

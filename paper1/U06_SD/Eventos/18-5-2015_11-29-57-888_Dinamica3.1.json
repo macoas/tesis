@@ -1,0 +1,51 @@
+{
+    "fraseAGrabar": "¡Hola! ¿Tienen lupas? Quería comprar una.",
+    "lector": false,
+    "dinamica": "Dinamica3.1",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "11:29:57:890"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "11:30:14:192"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_11-30-28-311_Dinamica3.1_1.wav",
+            "hora": "11:30:28:311"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "18/5/2015",
+            "hora": "11:30:28:425"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "11:30:35:615"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_11-30-46-136_Dinamica3.1_2.wav",
+            "hora": "11:30:46:137"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "18/5/2015",
+            "hora": "11:30:46:211"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:30:50:245"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "15:31:24:207"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "infoAdicional": "¡Hola, tío Pau! Ya vuelvo a casa.",
+            "hora": "15:31:42:103"
+        },
+        {
+            "evento": "Opcion incorrecta",
+            "fecha": "18/5/2015",
+            "infoAdicional": "¡Hola, tío Pau! ¿Ya vuelvo a casa?",
+            "hora": "15:31:49:132"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "infoAdicional": "¡Hola, tío Pau! Ya vuelvo a casa.",
+            "hora": "15:32:5:157"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "18/5/2015",
+            "infoAdicional": "¡Hola, tío Pau! Ya vuelvo a casa.",
+            "hora": "15:32:10:981"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "15:32:14:990"
+        }
+    ],
+    "opciones": [
+        "¡Hola, tío Pau! Ya vuelvo a casa.",
+        "¡Hola, tío Pau! ¿Ya vuelvo a casa?"
+    ],
+    "dinamica": "Dinamica4.1",
+    "dificultad": "Medio"
+}
