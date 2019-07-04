@@ -1,0 +1,21 @@
+{
+    "opciones": [
+        "Volver a casa",
+        "Ir a la librería"
+    ],
+    "dinamica": "Dinamica7",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015",
+            "hora": "11:21:45:735"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015",
+            "infoAdicional": "No superada",
+            "hora": "11:22:23:258"
+        }
+    ]
+}

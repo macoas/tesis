@@ -1,0 +1,79 @@
+{
+    "dinamica": "DinamicaMonopatin5",
+    "eventos": [
+        {
+            "hora": "12:0:53:857",
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:44:121",
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "1-5-2015_12-1-51-289_DinamicaMonopatin5_0_frase",
+            "hora": "12:1:51:289",
+            "evento": "Fin deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:51:319",
+            "evento": "Frase incorrecta",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:54:699",
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "1-5-2015_12-2-2-79_DinamicaMonopatin5_1_frase",
+            "hora": "12:2:2:79",
+            "evento": "Fin deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:2:139",
+            "evento": "Frase correcta",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:23:866",
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "1-5-2015_12-2-30-595_DinamicaMonopatin5_0_tarareo",
+            "hora": "12:2:30:595",
+            "evento": "Fin deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:30:645",
+            "evento": "Tarareo incorrecto",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:34:35",
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "1-5-2015_12-2-40-565_DinamicaMonopatin5_1_tarareo",
+            "hora": "12:2:40:565",
+            "evento": "Fin deteccion pitch",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:40:605",
+            "evento": "Tarareo correcto",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:45:315",
+            "evento": "Salida de la dinamica",
+            "fecha": "15/6/2015"
+        }
+    ]
+}

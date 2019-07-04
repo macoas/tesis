@@ -1,0 +1,27 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/6/2015",
+            "hora": "9:24:43:389"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "18/6/2015",
+            "infoAdicional": "¡Hola, tío Pau! Ya vuelvo a casa.",
+            "hora": "9:24:58:659"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "9:25:2:679"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica4.1",
+    "opciones": [
+        "¡Hola, tío Pau! Ya vuelvo a casa.",
+        "¡Hola, tío Pau! ¿Ya vuelvo a casa?"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:7:52:281"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:8:1:327"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:8:8:703"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-8-15-829_Dinamica4.3_1.wav",
+            "hora": "11:8:15:829"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:8:15:880"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:8:19:735"
+        }
+    ],
+    "fraseAGrabar": "Sí, esa es. ¡Hasta luego!",
+    "lector": false,
+    "dinamica": "Dinamica4.3",
+    "dificultad": "Medio"
+}

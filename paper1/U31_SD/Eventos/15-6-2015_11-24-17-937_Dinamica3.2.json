@@ -1,0 +1,71 @@
+{
+    "fraseAGrabar": "Sí, la necesito. ¿Cuánto vale?",
+    "lector": false,
+    "dinamica": "Dinamica3.2",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015",
+            "hora": "11:24:17:940"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "15/6/2015",
+            "hora": "11:24:41:935"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "15/6/2015",
+            "hora": "11:24:56:550"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "15/6/2015",
+            "hora": "11:25:11:117"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_11-25-17-497_Dinamica3.2_1.wav",
+            "hora": "11:25:17:498"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "15/6/2015",
+            "hora": "11:25:17:535"
+        },
+        {
+            "evento": "Ayuda sonora",
+            "fecha": "15/6/2015",
+            "hora": "11:25:36:666"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "15/6/2015",
+            "hora": "11:25:37:435"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "15/6/2015",
+            "hora": "11:25:41:361"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_11-25-48-759_Dinamica3.2_2.wav",
+            "hora": "11:25:48:760"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "15/6/2015",
+            "hora": "11:25:48:810"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:25:52:819"
+        }
+    ]
+}

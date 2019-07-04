@@ -1,0 +1,10 @@
+{
+    "eventos": [
+        {
+            "evento": "Salida de la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:1:50:983"
+        }
+    ],
+    "dinamica": "DinamicaMonopatin2"
+}

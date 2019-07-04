@@ -1,0 +1,51 @@
+{
+    "lector": false,
+    "dinamica": "Dinamica5.1",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:38:52:106",
+            "evento": "Entrada en la dinamica"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:39:12:265",
+            "evento": "Comienzo grabación"
+        },
+        {
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_12-39-19-556_Dinamica5.1_1.wav",
+            "hora": "12:39:19:556",
+            "evento": "Fin grabación"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:39:19:601",
+            "evento": "Grabacion incorrecta"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:39:38:680",
+            "evento": "Comienzo grabación"
+        },
+        {
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_12-39-44-268_Dinamica5.1_2.wav",
+            "hora": "12:39:44:268",
+            "evento": "Fin grabación"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:39:44:307",
+            "evento": "Grabacion correcta"
+        },
+        {
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "12:39:48:314",
+            "evento": "Salida de la dinamica "
+        }
+    ],
+    "fraseAGrabar": "¡Hola, tío Pau! ¿Sabes dónde vive la señora Luna?  "
+}

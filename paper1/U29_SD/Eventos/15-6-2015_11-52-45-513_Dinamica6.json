@@ -1,0 +1,27 @@
+{
+    "dinamica": "Dinamica6",
+    "opciones": [
+        "Quedarme en la biblioteca",
+        "Coger el autobús"
+    ],
+    "eventos": [
+        {
+            "hora": "11:52:45:523",
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "Coger el autobús",
+            "hora": "11:53:4:528",
+            "evento": "Opcion correcta",
+            "fecha": "15/6/2015"
+        },
+        {
+            "infoAdicional": "Superada",
+            "hora": "11:53:8:568",
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015"
+        }
+    ],
+    "dificultad": "Medio"
+}

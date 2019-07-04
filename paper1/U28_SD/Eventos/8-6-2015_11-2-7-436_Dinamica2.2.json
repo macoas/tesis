@@ -1,0 +1,81 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:2:7:438"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:2:20:438"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:2:21:542"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:2:22:310"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:2:22:686"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "8/6/2015",
+            "hora": "11:2:23:7"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "8/6/2015",
+            "hora": "11:2:25:702"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:2:31:863"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-2-38-386_Dinamica2.2_1.wav",
+            "hora": "11:2:38:386"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "8/6/2015",
+            "hora": "11:2:38:426"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:2:47:823"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-2-52-482_Dinamica2.2_2.wav",
+            "hora": "11:2:52:483"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:2:52:516"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:2:56:516"
+        }
+    ],
+    "fraseAGrabar": "¡Muchas gracias, Juan!",
+    "lector": false,
+    "dinamica": "Dinamica2.2",
+    "dificultad": "Medio"
+}

@@ -1,0 +1,37 @@
+{
+    "dinamica": "DinamicaPuzzle",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:37:36:635",
+            "evento": "Entrada en la dinamica"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:37:53:978",
+            "evento": "Pieza colocada"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:38:1:793",
+            "evento": "Pieza colocada"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:38:6:785",
+            "evento": "Pieza colocada"
+        },
+        {
+            "fecha": "8/6/2015",
+            "hora": "12:38:10:601",
+            "evento": "Pieza colocada"
+        },
+        {
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "12:38:20:0",
+            "evento": "Salida de la dinamica "
+        }
+    ]
+}
