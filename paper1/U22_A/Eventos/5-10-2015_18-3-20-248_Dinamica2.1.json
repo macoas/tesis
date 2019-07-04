@@ -1,0 +1,27 @@
+{
+    "dificultad": "Medio",
+    "dinamica": "Dinamica2.1",
+    "opciones": [
+        "¡Hola! Sí, soy yo. ¿Dónde hay libros de historia,por favor?",
+        "¡Hola! Sí, soy yo. Gracias por tu ayuda con los libros de historia."
+    ],
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "5/10/2015",
+            "hora": "18:3:20:250"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "5/10/2015",
+            "infoAdicional": "¡Hola! Sí, soy yo. ¿Dónde hay libros de historia,por favor?",
+            "hora": "18:3:39:241"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "5/10/2015",
+            "infoAdicional": "Superada",
+            "hora": "18:3:48:534"
+        }
+    ]
+}

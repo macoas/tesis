@@ -1,0 +1,61 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "10:7:18:782"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "18/5/2015",
+            "hora": "10:7:27:348"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "hora": "10:7:35:136"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "10:7:40:871"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_10-7-45-761_Dinamica2.2_1.wav",
+            "hora": "10:7:45:762"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "18/5/2015",
+            "hora": "10:7:45:790"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "10:7:53:914"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_10-7-57-914_Dinamica2.2_2.wav",
+            "hora": "10:7:57:914"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "18/5/2015",
+            "hora": "10:7:57:941"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "10:8:1:971"
+        }
+    ],
+    "fraseAGrabar": "¡Muchas gracias, Juan!",
+    "lector": false,
+    "dinamica": "Dinamica2.2",
+    "dificultad": "Medio"
+}

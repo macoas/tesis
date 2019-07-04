@@ -1,0 +1,578 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaJugador",
+            "hora": "17:38:6:754"
+        },
+        {
+            "evento": "Salida del juego:",
+            "fecha": "12/1/2016",
+            "hora": "17:39:3:492"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaJugador",
+            "hora": "17:39:7:563"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaJugador",
+            "hora": "17:40:5:201"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "cascoAntiguo",
+            "hora": "17:40:6:642"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "cascoAntiguo",
+            "hora": "17:40:14:455"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estacionBuses",
+            "hora": "17:40:15:985"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estacionBuses",
+            "hora": "17:40:23:281"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:40:26:832"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica1.1",
+            "fecha": "12/1/2016",
+            "hora": "17:40:31:185"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica1.1",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-40-31-175_Dinamica1.1",
+            "hora": "17:40:47:852"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:40:47:862"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:40:48:694"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica1.2",
+            "fecha": "12/1/2016",
+            "hora": "17:40:52:20"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica1.2",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-40-52-20_Dinamica1.2",
+            "hora": "17:41:22:171"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:41:22:171"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaBiblioteca",
+            "hora": "17:41:23:65"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaBiblioteca",
+            "hora": "17:41:26:655"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "biblioteca",
+            "hora": "17:41:28:629"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica2.1",
+            "fecha": "12/1/2016",
+            "hora": "17:41:42:399"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica2.1",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-41-42-399_Dinamica2.1",
+            "hora": "17:42:11:473"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaMonopatin2",
+            "fecha": "12/1/2016",
+            "hora": "17:42:11:483"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaMonopatin2",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-42-11-483_DinamicaMonopatin2",
+            "hora": "17:42:50:39"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica2.2",
+            "fecha": "12/1/2016",
+            "hora": "17:43:6:571"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica2.2",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-43-6-571_Dinamica2.2",
+            "hora": "17:43:26:254"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "biblioteca",
+            "hora": "17:43:26:254"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estanteriaBiblioteca",
+            "hora": "17:43:31:458"
+        },
+        {
+            "evento": "Interacción usuario con:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "libro",
+            "hora": "17:43:33:832"
+        },
+        {
+            "evento": "Objeto consegudio:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "libro",
+            "hora": "17:43:33:832"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica6",
+            "fecha": "12/1/2016",
+            "hora": "17:43:36:332"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica6",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-43-36-332_Dinamica6",
+            "hora": "17:44:2:107"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estanteriaBiblioteca",
+            "hora": "17:44:2:107"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "salidaBiblioteca",
+            "hora": "17:44:2:981"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "salidaBiblioteca",
+            "hora": "17:44:6:893"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorBiblioteca",
+            "hora": "17:44:9:376"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorBiblioteca",
+            "hora": "17:44:13:202"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:44:16:270"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica7",
+            "fecha": "12/1/2016",
+            "hora": "17:44:18:542"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica7",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-44-18-542_Dinamica7",
+            "hora": "17:44:35:615"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:44:36:595"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaTiendaEscolar",
+            "hora": "17:44:37:455"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaTiendaEscolar",
+            "hora": "17:44:44:161"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "tiendaEscolar",
+            "hora": "17:44:46:945"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica3.1",
+            "fecha": "12/1/2016",
+            "hora": "17:44:51:736"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica3.1",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-44-51-736_Dinamica3.1",
+            "hora": "17:45:11:520"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica3.2",
+            "fecha": "12/1/2016",
+            "hora": "17:45:15:142"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica3.2",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-45-15-132_Dinamica3.2",
+            "hora": "17:45:35:924"
+        },
+        {
+            "evento": "Objeto usado:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "monedero",
+            "hora": "17:45:42:615"
+        },
+        {
+            "evento": "Objeto consegudio:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "lupa",
+            "hora": "17:45:42:615"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "tiendaEscolar",
+            "hora": "17:45:48:976"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "salidaTiendaEscolar",
+            "hora": "17:45:50:296"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "salidaTiendaEscolar",
+            "hora": "17:45:52:814"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorBiblioteca",
+            "hora": "17:45:54:365"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorBiblioteca",
+            "hora": "17:45:58:237"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:46:1:309"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica4.1",
+            "fecha": "12/1/2016",
+            "hora": "17:46:6:314"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica4.1",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-46-6-314_Dinamica4.1",
+            "hora": "17:46:22:848"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica4.2",
+            "fecha": "12/1/2016",
+            "hora": "17:46:22:858"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica4.2",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-46-22-858_Dinamica4.2",
+            "hora": "17:46:42:331"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:46:43:721"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:46:44:581"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica4.3",
+            "fecha": "12/1/2016",
+            "hora": "17:46:51:293"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica4.3",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-46-51-293_Dinamica4.3",
+            "hora": "17:47:10:97"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:47:10:107"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaCasaJugador",
+            "hora": "17:47:10:967"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "entradaCasaJugador",
+            "hora": "17:47:13:110"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaJugador",
+            "hora": "17:47:14:614"
+        },
+        {
+            "evento": "Objeto usado:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "libro",
+            "hora": "17:47:26:765"
+        },
+        {
+            "evento": "Objeto usado:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "lupa",
+            "hora": "17:47:27:705"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaLibro",
+            "fecha": "12/1/2016",
+            "hora": "17:47:32:746"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaLibro",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-47-32-746_DinamicaLibro",
+            "hora": "17:48:2:757"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaPuzzle",
+            "fecha": "12/1/2016",
+            "hora": "17:48:2:767"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaPuzzle",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-48-2-767_DinamicaPuzzle",
+            "hora": "17:48:21:950"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaJugador",
+            "hora": "17:48:36:842"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "cascoAntiguo",
+            "hora": "17:48:38:273"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "cascoAntiguo",
+            "hora": "17:48:41:403"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estacionBuses",
+            "hora": "17:48:42:963"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "estacionBuses",
+            "hora": "17:48:46:741"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:48:50:322"
+        },
+        {
+            "evento": "Comienzo dinamica: Dinamica5.1",
+            "fecha": "12/1/2016",
+            "hora": "17:48:52:586"
+        },
+        {
+            "evento": "Fin dinamica: Dinamica5.1",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-48-52-586_Dinamica5.1",
+            "hora": "17:49:15:389"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaMonopatin5",
+            "fecha": "12/1/2016",
+            "hora": "17:49:15:399"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaMonopatin5",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-49-15-399_DinamicaMonopatin5",
+            "hora": "17:50:54:483"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:51:0:175"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:51:1:25"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "bus",
+            "hora": "17:51:6:693"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorCasaLuna",
+            "hora": "17:51:7:535"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "exteriorCasaLuna",
+            "hora": "17:51:11:79"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "puertaCasaLuna",
+            "hora": "17:51:14:219"
+        },
+        {
+            "evento": "Interacción usuario con:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "timbre",
+            "hora": "17:51:16:950"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "puertaCasaLuna",
+            "hora": "17:51:31:652"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "casaLuna",
+            "hora": "17:51:32:282"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaGalletas",
+            "fecha": "12/1/2016",
+            "hora": "17:51:33:821"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaGalletas",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-51-33-821_DinamicaGalletas",
+            "hora": "17:52:2:944"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaLimpieza",
+            "fecha": "12/1/2016",
+            "hora": "17:52:29:248"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaLimpieza",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-52-29-248_DinamicaLimpieza",
+            "hora": "17:52:50:903"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaEstanteriaLupa",
+            "fecha": "12/1/2016",
+            "hora": "17:52:58:814"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaEstanteriaLupa",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-52-58-814_DinamicaEstanteriaLupa",
+            "hora": "17:53:7:426"
+        },
+        {
+            "evento": "Objeto consegudio:",
+            "fecha": "12/1/2016",
+            "infoAdicional": "mapa",
+            "hora": "17:53:7:436"
+        }
+    ]
+}

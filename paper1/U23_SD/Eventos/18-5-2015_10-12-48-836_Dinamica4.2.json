@@ -1,0 +1,40 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/5/2015",
+            "hora": "10:12:48:839"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "18/5/2015",
+            "hora": "10:13:5:67"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/5/2015",
+            "hora": "10:13:10:285"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/5/2015",
+            "infoAdicional": "18-5-2015_10-13-19-92_Dinamica4.2_1.wav",
+            "hora": "10:13:19:93"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "18/5/2015",
+            "hora": "10:13:19:146"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/5/2015",
+            "infoAdicional": "Superada",
+            "hora": "10:13:23:178"
+        }
+    ],
+    "fraseAGrabar": "¡Hola tío Pau! Ya vuelvo a casa.",
+    "lector": false,
+    "dinamica": "Dinamica4.2",
+    "dificultad": "Medio"
+}

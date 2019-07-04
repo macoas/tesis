@@ -1,0 +1,79 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "exteriorCasaLuna",
+            "hora": "12:35:14:510"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "exteriorCasaLuna",
+            "hora": "12:35:18:935"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "puertaCasaLuna",
+            "hora": "12:35:20:465"
+        },
+        {
+            "evento": "Interacción usuario con:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "timbre",
+            "hora": "12:35:24:765"
+        },
+        {
+            "evento": "Salida de escenario:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "puertaCasaLuna",
+            "hora": "12:35:39:427"
+        },
+        {
+            "evento": "Entrada en escenario:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "casaLuna",
+            "hora": "12:35:39:997"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaGalletas",
+            "fecha": "15/6/2015",
+            "hora": "12:35:41:47"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaGalletas",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_12-35-41-47_DinamicaGalletas",
+            "hora": "12:36:6:893"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaLimpieza",
+            "fecha": "15/6/2015",
+            "hora": "12:36:33:168"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaLimpieza",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_12-36-33-168_DinamicaLimpieza",
+            "hora": "12:36:53:238"
+        },
+        {
+            "evento": "Comienzo dinamica: DinamicaEstanteriaLupa",
+            "fecha": "15/6/2015",
+            "hora": "12:37:1:148"
+        },
+        {
+            "evento": "Fin dinamica: DinamicaEstanteriaLupa",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_12-37-1-148_DinamicaEstanteriaLupa",
+            "hora": "12:37:36:91"
+        },
+        {
+            "evento": "Objeto consegudio:",
+            "fecha": "15/6/2015",
+            "infoAdicional": "mapa",
+            "hora": "12:37:36:91"
+        }
+    ]
+}

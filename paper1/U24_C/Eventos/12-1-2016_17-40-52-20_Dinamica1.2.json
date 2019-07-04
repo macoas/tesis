@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "12/1/2016",
+            "hora": "17:40:52:30"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "12/1/2016",
+            "hora": "17:41:12:823"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-41-17-975_Dinamica1.2_1.wav",
+            "hora": "17:41:17:975"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "12/1/2016",
+            "hora": "17:41:18:22"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "12/1/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:41:22:151"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica1.2",
+    "fraseAGrabar": "¡Hasta luego, tío Pau!",
+    "lector": true
+}
