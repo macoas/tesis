@@ -1,0 +1,51 @@
+{
+    "fraseAGrabar": "¡Hola tío Pau! Ya vuelvo a casa.",
+    "lector": false,
+    "dinamica": "Dinamica4.2",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:44:36:695"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:44:52:759"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-44-58-10_Dinamica4.2_1.wav",
+            "hora": "11:44:58:11"
+        },
+        {
+            "evento": "Grabacion incorrecta",
+            "fecha": "8/6/2015",
+            "hora": "11:44:58:40"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:45:11:617"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-45-16-916_Dinamica4.2_2.wav",
+            "hora": "11:45:16:916"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:45:16:953"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:45:20:986"
+        }
+    ]
+}

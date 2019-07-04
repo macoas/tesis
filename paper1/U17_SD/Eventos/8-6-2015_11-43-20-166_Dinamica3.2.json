@@ -1,0 +1,35 @@
+{
+    "fraseAGrabar": "Sí, la necesito. ¿Cuánto vale?",
+    "lector": false,
+    "dinamica": "Dinamica3.2",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:43:20:168"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:43:37:993"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-43-42-580_Dinamica3.2_1.wav",
+            "hora": "11:43:42:581"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:43:42:612"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:43:46:622"
+        }
+    ]
+}

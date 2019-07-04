@@ -1,0 +1,35 @@
+{
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica5.1",
+    "fraseAGrabar": "¡Hola, tío Pau! ¿Sabes dónde vive la señora Luna?  ",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "9/10/2015",
+            "hora": "17:29:38:9"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "9/10/2015",
+            "hora": "17:29:57:670"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "9/10/2015",
+            "infoAdicional": "9-10-2015_17-30-1-436_Dinamica5.1_1.wav",
+            "hora": "17:30:1:436"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "9/10/2015",
+            "hora": "17:30:1:457"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "9/10/2015",
+            "infoAdicional": "Superada",
+            "hora": "17:30:5:484"
+        }
+    ]
+}

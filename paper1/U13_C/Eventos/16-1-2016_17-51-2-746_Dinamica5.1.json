@@ -1,0 +1,40 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "16/1/2016",
+            "hora": "17:51:2:746"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "16/1/2016",
+            "hora": "17:51:20:924"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "16/1/2016",
+            "hora": "17:51:24:155"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "16/1/2016",
+            "infoAdicional": "16-1-2016_17-51-29-465_Dinamica5.1_1.wav",
+            "hora": "17:51:29:465"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "16/1/2016",
+            "hora": "17:51:29:515"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "16/1/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:51:33:586"
+        }
+    ],
+    "dificultad": "Medio",
+    "dinamica": "Dinamica5.1",
+    "fraseAGrabar": "¡Hola, tío Pau! ¿Sabes dónde vive la señora Luna?  ",
+    "lector": false
+}

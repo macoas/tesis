@@ -1,0 +1,27 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "12/1/2016",
+            "hora": "17:26:9:267"
+        },
+        {
+            "evento": "Opcion correcta",
+            "fecha": "12/1/2016",
+            "infoAdicional": "Ya vuelvo a casa.",
+            "hora": "17:26:17:278"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "12/1/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:26:21:298"
+        }
+    ],
+    "dificultad": "Fácil",
+    "opciones": [
+        "Ya vuelvo a casa.",
+        "¿Ya vuelvo a casa?"
+    ],
+    "dinamica": "Dinamica4.1"
+}

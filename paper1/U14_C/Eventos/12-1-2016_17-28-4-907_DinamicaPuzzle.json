@@ -1,0 +1,37 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "12/1/2016",
+            "hora": "17:28:4:917"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "12/1/2016",
+            "hora": "17:28:13:108"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "12/1/2016",
+            "hora": "17:28:17:889"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "12/1/2016",
+            "hora": "17:28:20:854"
+        },
+        {
+            "evento": "Pieza colocada",
+            "fecha": "12/1/2016",
+            "hora": "17:28:24:925"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "12/1/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:28:34:315"
+        }
+    ],
+    "dificultad": "Fácil",
+    "dinamica": "DinamicaPuzzle"
+}

@@ -1,0 +1,40 @@
+{
+    "fraseAGrabar": "¡Muchas gracias, Juan!",
+    "lector": false,
+    "dinamica": "Dinamica2.2",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:40:52:13"
+        },
+        {
+            "evento": "Click en altavoz",
+            "fecha": "8/6/2015",
+            "hora": "11:41:9:869"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "8/6/2015",
+            "hora": "11:41:15:86"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "8/6/2015",
+            "infoAdicional": "8-6-2015_11-41-18-969_Dinamica2.2_1.wav",
+            "hora": "11:41:18:969"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:41:18:989"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "8/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "11:41:23:31"
+        }
+    ]
+}

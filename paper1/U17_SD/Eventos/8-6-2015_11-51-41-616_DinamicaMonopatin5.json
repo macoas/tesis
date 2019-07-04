@@ -1,0 +1,47 @@
+{
+    "dinamica": "DinamicaMonopatin5",
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:51:41:619"
+        },
+        {
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "8/6/2015",
+            "hora": "11:52:31:900"
+        },
+        {
+            "evento": "Fin deteccion pitch",
+            "fecha": "8/6/2015",
+            "infoAdicional": "1-5-2015_11-52-41-580_DinamicaMonopatin5_0_frase",
+            "hora": "11:52:41:580"
+        },
+        {
+            "evento": "Frase correcta",
+            "fecha": "8/6/2015",
+            "hora": "11:52:41:639"
+        },
+        {
+            "evento": "Comienzo deteccion pitch",
+            "fecha": "8/6/2015",
+            "hora": "11:53:3:361"
+        },
+        {
+            "evento": "Fin deteccion pitch",
+            "fecha": "8/6/2015",
+            "infoAdicional": "1-5-2015_11-53-12-874_DinamicaMonopatin5_0_tarareo",
+            "hora": "11:53:12:874"
+        },
+        {
+            "evento": "Tarareo correcto",
+            "fecha": "8/6/2015",
+            "hora": "11:53:12:940"
+        },
+        {
+            "evento": "Salida de la dinamica",
+            "fecha": "8/6/2015",
+            "hora": "11:53:17:665"
+        }
+    ]
+}

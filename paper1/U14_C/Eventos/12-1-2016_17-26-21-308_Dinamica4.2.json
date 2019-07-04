@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "12/1/2016",
+            "hora": "17:26:21:318"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "12/1/2016",
+            "hora": "17:26:33:60"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "12/1/2016",
+            "infoAdicional": "12-1-2016_17-26-35-891_Dinamica4.2_1.wav",
+            "hora": "17:26:35:891"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "12/1/2016",
+            "hora": "17:26:35:921"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "12/1/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:26:39:952"
+        }
+    ],
+    "dificultad": "Fácil",
+    "dinamica": "Dinamica4.2",
+    "fraseAGrabar": "Ya vuelvo a casa.",
+    "lector": true
+}
