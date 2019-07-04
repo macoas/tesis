@@ -1,0 +1,35 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/6/2015",
+            "hora": "9:47:14:468"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "18/6/2015",
+            "hora": "9:47:34:518"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "18/6/2015",
+            "infoAdicional": "18-6-2015_9-47-39-744_Dinamica2.2_1.wav",
+            "hora": "9:47:39:744"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "18/6/2015",
+            "hora": "9:47:39:784"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "9:47:43:814"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica2.2",
+    "fraseAGrabar": "¡Muchas gracias, Juan!"
+}

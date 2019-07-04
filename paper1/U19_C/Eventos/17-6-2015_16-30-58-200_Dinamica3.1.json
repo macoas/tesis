@@ -1,0 +1,50 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "17/6/2015",
+            "hora": "16:30:58:210"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "17/6/2015",
+            "hora": "16:31:8:848"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "17/6/2015",
+            "hora": "16:31:9:128"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "17/6/2015",
+            "hora": "16:31:13:868"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "17/6/2015",
+            "hora": "16:31:14:338"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "17/6/2015",
+            "infoAdicional": "17-6-2015_16-31-19-168_Dinamica3.1_1.wav",
+            "hora": "16:31:19:168"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "17/6/2015",
+            "hora": "16:31:19:178"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "17/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "16:31:23:218"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica3.1",
+    "fraseAGrabar": "¡Hola! ¿Tienen lupas? Quería comprar una."
+}

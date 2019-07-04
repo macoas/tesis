@@ -1,0 +1,16 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "18/6/2015",
+            "hora": "10:1:5:554"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "18/6/2015",
+            "infoAdicional": "Superada",
+            "hora": "10:1:28:332"
+        }
+    ],
+    "dinamica": "DinamicaLimpieza"
+}

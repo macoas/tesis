@@ -1,0 +1,21 @@
+{
+    "dinamica": "DinamicaGalletas",
+    "eventos": [
+        {
+            "hora": "18:14:53:595",
+            "evento": "Entrada en la dinamica",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:15:1:216",
+            "evento": "Opcion incorrecta",
+            "fecha": "16/1/2016"
+        },
+        {
+            "hora": "18:15:21:509",
+            "evento": "Salida de la dinamica ",
+            "fecha": "16/1/2016",
+            "infoAdicional": "No superada"
+        }
+    ]
+}
