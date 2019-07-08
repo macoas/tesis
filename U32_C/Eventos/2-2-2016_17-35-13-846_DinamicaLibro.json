@@ -1,0 +1,36 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "2/2/2016",
+            "hora": "17:35:13:856"
+        },
+        {
+            "evento": "Pieza encontrada",
+            "fecha": "2/2/2016",
+            "hora": "17:35:38:212"
+        },
+        {
+            "evento": "Pieza encontrada",
+            "fecha": "2/2/2016",
+            "hora": "17:35:40:880"
+        },
+        {
+            "evento": "Pieza encontrada",
+            "fecha": "2/2/2016",
+            "hora": "17:35:49:663"
+        },
+        {
+            "evento": "Pieza encontrada",
+            "fecha": "2/2/2016",
+            "hora": "17:35:52:752"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "2/2/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:35:56:860"
+        }
+    ],
+    "dinamica": "DinamicaLibro"
+}

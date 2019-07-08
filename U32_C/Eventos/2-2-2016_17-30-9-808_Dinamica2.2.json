@@ -1,0 +1,60 @@
+{
+    "eventos": [
+        {
+            "evento": "Entrada en la dinamica",
+            "fecha": "2/2/2016",
+            "hora": "17:30:9:818"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "2/2/2016",
+            "hora": "17:30:18:379"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "2/2/2016",
+            "hora": "17:30:20:189"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "2/2/2016",
+            "hora": "17:30:23:720"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "2/2/2016",
+            "hora": "17:30:24:770"
+        },
+        {
+            "evento": "Comienzo grabación",
+            "fecha": "2/2/2016",
+            "hora": "17:30:25:290"
+        },
+        {
+            "evento": "Click incorrecto",
+            "fecha": "2/2/2016",
+            "hora": "17:30:25:750"
+        },
+        {
+            "evento": "Fin grabación",
+            "fecha": "2/2/2016",
+            "infoAdicional": "2-2-2016_17-30-28-831_Dinamica2.2_1.wav",
+            "hora": "17:30:28:831"
+        },
+        {
+            "evento": "Grabacion correcta",
+            "fecha": "2/2/2016",
+            "hora": "17:30:28:861"
+        },
+        {
+            "evento": "Salida de la dinamica ",
+            "fecha": "2/2/2016",
+            "infoAdicional": "Superada",
+            "hora": "17:30:32:942"
+        }
+    ],
+    "lector": false,
+    "dificultad": "Medio",
+    "dinamica": "Dinamica2.2",
+    "fraseAGrabar": "¡Muchas gracias, Juan!"
+}
