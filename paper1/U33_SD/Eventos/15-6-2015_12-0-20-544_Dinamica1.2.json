@@ -1,0 +1,50 @@
+{
+    "dinamica": "Dinamica1.2",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "hora": "12:0:20:546",
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:0:44:941",
+            "evento": "Ayuda sonora",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:0:58:465",
+            "evento": "Ayuda sonora",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:3:536",
+            "evento": "Click en altavoz",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:20:571",
+            "evento": "Comienzo grabación",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:26:397",
+            "evento": "Fin grabación",
+            "fecha": "15/6/2015",
+            "infoAdicional": "15-6-2015_12-1-26-397_Dinamica1.2_1.wav"
+        },
+        {
+            "hora": "12:1:26:433",
+            "evento": "Grabacion correcta",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:1:30:467",
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "fraseAGrabar": "¡Hasta luego, tío Pau!",
+    "lector": false
+}

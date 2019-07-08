@@ -1,0 +1,33 @@
+{
+    "dinamica": "Dinamica1.1",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "hora": "11:59:23:946",
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "11:59:55:760",
+            "evento": "Ayuda sonora",
+            "fecha": "15/6/2015",
+            "infoAdicional": "¿Has entendido lo que tienes que hacer?"
+        },
+        {
+            "hora": "12:0:12:930",
+            "evento": "Opcion correcta",
+            "fecha": "15/6/2015",
+            "infoAdicional": "¡Buenos días, tío Pau! Voy a la biblioteca"
+        },
+        {
+            "hora": "12:0:16:944",
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "opciones": [
+        "¡Buenos días, tío Pau! Voy al hospital",
+        "¡Buenos días, tío Pau! Voy a la biblioteca"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "dinamica": "Dinamica2.1",
+    "dificultad": "Medio",
+    "eventos": [
+        {
+            "hora": "12:2:3:347",
+            "evento": "Entrada en la dinamica",
+            "fecha": "15/6/2015"
+        },
+        {
+            "hora": "12:2:41:796",
+            "evento": "Ayuda sonora",
+            "fecha": "15/6/2015",
+            "infoAdicional": "¿Has entendido lo que tienes que hacer?"
+        },
+        {
+            "hora": "12:2:51:87",
+            "evento": "Click en altavoz",
+            "fecha": "15/6/2015",
+            "infoAdicional": "¡Hola! Sí, soy yo. ¿Dónde hay libros de historia,por favor?"
+        },
+        {
+            "hora": "12:3:12:488",
+            "evento": "Opcion correcta",
+            "fecha": "15/6/2015",
+            "infoAdicional": "¡Hola! Sí, soy yo. ¿Dónde hay libros de historia,por favor?"
+        },
+        {
+            "hora": "12:3:21:769",
+            "evento": "Salida de la dinamica ",
+            "fecha": "15/6/2015",
+            "infoAdicional": "Superada"
+        }
+    ],
+    "opciones": [
+        "¡Hola! Sí, soy yo. ¿Dónde hay libros de historia,por favor?",
+        "¡Hola! Sí, soy yo. Gracias por tu ayuda con los libros de historia."
+    ]
+}
